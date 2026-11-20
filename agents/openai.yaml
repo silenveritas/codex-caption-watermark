@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Caption and Watermark"
+  short_description: "Time edits to narration and add captions and branding"
+  default_prompt: "Use $codex-caption-watermark to finish this narrated video with the requested captions and branding."
