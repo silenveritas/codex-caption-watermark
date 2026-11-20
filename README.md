@@ -8,6 +8,12 @@ A Codex skill for finishing narrated videos. It works with an existing video or 
 | Boogaloo captions | Burned-in captions in the narration language, with the active word highlighted in yellow. |
 | Konon Katanya Sih watermark | A small, translucent `@kononkatanyasih` watermark in the upper left of channel episodes. |
 
+## Origins
+
+This companion skill grew out of the narration and caption rules in our Codex adaptation of Mr omi’s `cartoon-3d-short` workflow. The Konon Katanya Sih watermark is specific to this companion. [Codex adaptation](https://github.com/silenveritas/codex-cartoon-3d-short) · [Original cartoon workflow by Mr omi](https://github.com/mromidev/claude-animated-shorts)
+
+The Boogaloo caption styling draws on the Bang Story caption preset. [Bang Story caption presets](https://github.com/bangtutorial/bang-story/blob/c71651a/src/shared/captions.ts)
+
 ## Install
 
 Clone the repo into your Codex skills directory. If an earlier copy is already installed, update that copy or back up any local edits before replacing it.
